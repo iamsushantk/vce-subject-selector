@@ -1,4 +1,3 @@
-```text
 ## 🎓 Journalistic Career Pathway from VCE to Profession
 
 ### 📝 Year 11–12 (VCE) – Key Subjects
@@ -69,8 +68,3 @@
 - Gain experience via student media, internships, freelancing, or sponsor‑based placements.
 - Many journalism roles prefer a degree plus practical skills—news agencies, magazines, digital media outlets, broadcast networks.
 
----
-
-Let me know if you'd like help planning your subject map year‑by‑year, building a portfolio for internships, or exploring double‑degree options like Journalism + Law or Business!
-::contentReference[oaicite:9]{index=9}
-```

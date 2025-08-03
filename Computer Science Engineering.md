@@ -1,4 +1,3 @@
-```text
 ## 🎓 VCE Subjects for Computer Science Pathway
 
 ### ✅ Required VCE Units
@@ -84,6 +83,3 @@
    - **~82+** for Monash, **~75–82** for RMIT/Swinburne, **~65–72** for Deakin, **~56** for La Trobe.
    - **High‑90s goal** if aiming for Melbourne.
 
-Let me know if you’d like to map a subject plan per year or explore scholarship, early entry, double‑degree or honours options at any university!
-::contentReference[oaicite:23]{index=23}
-```

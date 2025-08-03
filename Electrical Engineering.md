@@ -1,4 +1,3 @@
-```text
 ## 🩺 Medicine Career Pathway (Victoria, Australia)
 
 ### 1) VCE Subjects (Year 11–12)
@@ -49,6 +48,3 @@
 - Decide between direct-entry (Monash) or graduate-entry (Melbourne/others) routes.
 - Plan your undergraduate major accordingly if choosing graduate-entry (e.g. Bachelor of Science/Biomedicine).
 - Consider ADF Medical Officer entry after degree if interested in combining medicine with defence service.
-```
-
-ופי

@@ -1,6 +1,4 @@
-Here’s a clear pathway in **Victoria, Australia** to pursue **Electronics & Communication Engineering**:
-
----
+# Electronics & Communication Engineering
 
 ## 1️⃣ VCE Year 11–12: Core Subject Preparation
 

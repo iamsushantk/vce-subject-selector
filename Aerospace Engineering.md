@@ -1,4 +1,3 @@
-```text
 ## 🎓 VCE Subjects for Aeronautical / Aerospace Engineering Pathway
 
 ### ✅ Required VCE Units (Units 3–4 level)
@@ -69,7 +68,3 @@ These subjects may earn you academic adjustment points at universities like RMIT
 5. Consider starting with **RMIT’s Advanced Diploma in Aeronautical Engineering** if you prefer a vocational start with guaranteed university entry and credit transfer.
 
 ---
-
-Let me know if you’d like to map out your Year 11/12 study plan in detail, explore double‑degrees like Aerospace + Business or include scholarship pathways and internships!
-::contentReference[oaicite:11]{index=11}
-```

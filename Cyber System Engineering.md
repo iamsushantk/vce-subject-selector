@@ -1,6 +1,5 @@
-Here’s a structured pathway within the **Australian Defence Force (ADF)** to pursue a career as a **Cyber Systems Engineer** (also known as **Electronics Engineer – Cyber Systems** or **Cyber Warfare Officer**) — from VCE through to joining and progression:
+## 🎓 VCE Subjects for Electronics Engineer – Cyber Systems in ADF
 
----
 
 ## 🧭 VCE (Year 11–12): Academic Foundation
 

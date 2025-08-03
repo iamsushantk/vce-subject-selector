@@ -1,6 +1,4 @@
-Here’s the VCE subject advice and university pathway guidance to help you plan for law in Victoria:
-
----
+# Law
 
 ## 🎓 Year 11–12 (VCE) Subject Choices for Law
 
